@@ -33,7 +33,7 @@ Built using modular Terraform architecture for scalability and reusability.
 # 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahendra0456/terraform-3tier-project-new/main/images/architecture.png" width="1000"/>
+  <img src="3-Tire%20Architecture.png" width="1000"/>
 </p>
 
 ---
